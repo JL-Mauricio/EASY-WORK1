@@ -2,7 +2,7 @@
 ### Curso: Gestión de la Configuración
 ### Docente: Lenis Rossi Wong Portillo
 
-**Grupo 5**
+**Grupo 3**
 
 #### Integrantes:
 
